@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<karate>
+    <category name="Kata">
+        <item>
+            <name>Taikyoku Sono Ichi</name>
+            <level>10th kyu</level>
+            <description>
+                <![CDATA[
+                <h3>Taikyoku sono Ichi 太極一段</h3>
+                <p>The Embusen - <b>演武線</b>, or pathway of all the Taikyoku Kata, is an 'I'. On each turn, a block is executed, followed by a step and a strike. Up and back the middle, there are three punches.</p>
+                <ol>
+                <p>Begin the <b>KATA</b> from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>TAIKYOKU SONO ICHI</b> followed by the command <b>YOI</b> start perform a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+                <li>On the command <b>HAJIME/ICHI</b> turn left 90° counterclockwise into left <b>ZENKUTSU DACHI</b> blocking left <b>GEDAN BARAI</b> (pull the right hand back in <b>HIKITE</b> position).</li>    
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li>   
+                <li>Move the back foot across and turn 180° clockwise to the right into right <b>ZENKUTSU DACHI</b> blocking right <b>GEDAN BARAI</b>.</li>   
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and punch left <b>CHUDAN OI TSUKI</b>.</li>  
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li>   
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> (when stepping forward, don’t turn your front foot into 45°, this will happen when you punch and twist your hips and whole body) and punch right <b>SEIKEN CHUDAN OI TSUKI</b> (1).</li> 
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> and punch left <b>CHUDAN OI TSUKI</b> (2).</li>  
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> and punch right <b>CHUDAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>  
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>ZENKUTSU DACHI</b> blocking left <b>GEDAN BARAI</b>.</li>  
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li> 
+                <li>Slide the right foot across and turn 180° clockwise to the right into <b>ZENKUTSU DACHI</b> blocking right <b>GEDAN BARAI</b>.</li>   
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b>.</li>   
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li>   
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b> (1).</li> 
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b> (2).</li>   
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>   
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>ZENKUTSU DACHI</b> blocking left <b>GEDAN BARAI</b>.</li>  
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li> 
+                <li>Slide the right foot across and turn 180° clockwise to the right into <b>ZENKUTSU DACHI</b> blocking right <b>GEDAN BARAI</b>.</li>   
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b>.</li>   
+                <p>On the <b>NAORE</b> command return 90° counterclockwise to the left into <b>FUDO DACHI</b> (pull the left foot back to the base position, still looking right until the turn is completed).   
+                At the command <b>YASUME</b> relax and be at ease.</p>
+                </ol>
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/NCS6QB3ODnM?si=vmG_DMeocJe1a7gJ</video_link>
+        </item>
+        <item>
+            <name>Taikyoku Sono Ni</name>
+            <level>9th kyu</level>
+            <description>
+                <![CDATA[
+                <h3>Taikyoku sono Ni 太極二段</h3>
+                <ol>
+                <p>The Embusen - <b>演武線</b>, or pathway of all the <b>TAIKYOKU KATA</b>, is an 'I'. On each turn, a block is executed, followed by a step and a strike. Up and back the middle, there are three punches.</p>
+                Begin the <b>KATA</b> from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>TAIKYOKU SONO NI</b> followed by the command <b>YOI</b>, perform a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+                <li>On the command <b>HAJIME/ICHI</b> turn left 90° counterclockwise into left <b>ZENKUTSU DACHI</b>, blocking left <b>GEDAN BARAI</b> (pull the right hand back in <b>HIKITE</b> position).</li>   
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b>.</li>
+                <li>Move the back foot across and turn 180° clockwise to the right into right <b>ZENKUTSU DACHI</b>, blocking right <b>GEDAN BARAI</b>.</li>    
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and punch left <b>JODAN OI TSUKI</b>.</li>     
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> (when stepping forward, don’t turn your front foot into 45°, this will happen when you punch and twist your hips and whole body) and punch right <b>SEIKEN JODAN OI TSUKI</b> (1).</li>   
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> and punch left <b>JODAN OI TSUKI</b> (2).</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> and punch right <b>JODAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>  
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>ZENKUTSU DACHI</b>, blocking left <b>GEDAN BARAI</b>.</li>   
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b>.</li>    
+                <li>Slide the right foot across and turn 180° clockwise to the right into <b>ZENKUTSU DACHI</b>, blocking right <b>GEDAN BARAI</b>.</li>    
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>JODAN OI TSUKI</b>.</li>
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b> (1).</li>    
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>JODAN OI TSUKI</b> (2).</li>  
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>   
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>ZENKUTSU DACHI</b>, blocking left <b>GEDAN BARAI</b>.</li>   
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b>.</li>    
+                <li>Slide the right foot across and turn 180° clockwise to the right into <b>ZENKUTSU DACHI</b>, blocking right <b>GEDAN BARAI</b>.</li>    
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>JODAN OI TSUKI</b>.</li>  
+                <p>On the <b>NAORE</b> command return 90° counterclockwise to the left into <b>FUDO DACHI</b> (pull the left foot back to the base position, still looking right until the turn is completed).</p>  
+                <p>At the command <b>YASUME</b>, relax and be at ease.</p>
+                </ol>
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/W-y0Myy8i9Q?si=BfkmsPAl8fxxcuGF</video_link>
+        </item>
+        <item>
+            <name>Taikyoku Sono San</name>
+            <level>8th kyu</level>
+            <description>
+                <![CDATA[
+                <h3>Taikyoku sono San 太極三段</h3>
+                <p>It is performed with the same Embusen - 演武線 or pathway of all the other Taikyoku Kata. In Taikyoku sono San, Kokutsu Dachi and Uchi Uke are introduced into the Kata.<br>Though Taikyoku sono San should be considered a basic Kata, it takes beginners a long time to perform these techniques satisfactorily.</p>
+                <ol>
+                <p>Begin the <b>KATA</b> from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>TAIKYOKU SONO SAN</b> followed by the command <b>YOI</b> start performing a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>     
+                <li>On the command <b>HAJIME</b>/<b>ICHI</b> turn left 90° counterclockwise into left <b>KOKUTSU DACHI</b> blocking left <b>UCHI UKE</b> (pull the right hand back in <b>HIKITE</b> position).</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> (70% of the body weight is on the front leg; position of the gravity is 7-3 position) punching right <b>CHUDAN OI TSUKI</b>.</li> 
+                <li>Move the back foot across and turn 180° clockwise to the right into right <b>UCHI UKE</b>.</li>     
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and punch left <b>CHUDAN OI TSUKI</b>.</li>    
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> (when stepping forward, don’t turn your front foot into 45°, this will happen when you punch and twist your hips and whole body) and punch right <b>JODAN OI TSUKI</b> (1).</li>  
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> and punch left <b>JODAN OI TSUKI</b> (2).</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> and punch right <b>JODAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>  
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>KOKUTSU DACHI</b> blocking left <b>UCHI UKE</b>.</li>    
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li>   
+                <li>Slide the right foot across and turn 180° clockwise to the right into <b>KOKUTSU DACHI</b> blocking right <b>UCHI UKE</b>.</li> 
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b>.</li> 
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li> 
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b> (1).</li>    
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>JODAN OI TSUKI</b> (2).</li>  
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>JODAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>   
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>KOKUTSU DACHI</b> blocking left <b>UCHI UKE</b>.</li>    
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li>   
+                <li>Slide the right foot across and turn 180° clockwise to the right into <b>KOKUTSU DACHI</b> blocking right <b>UCHI UKE</b>.</li> 
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b>.</li>     
+                    <p>On the <b>NAORE</b> command return 90° counterclockwise to the left into <b>FUDO DACHI</b> (pull left foot back to the base position, still looking right until the turn is completed).</p>  
+                    <p>At the command <b>YASUME</b> relax and at ease.</p>
+                </ol>
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/5j1i4LHSet0?si=DsMzK6htaUoAqA3A</video_link>
+        </item>
+        <item>
+            <name>Pinan Sono Ichi</name>
+            <level>7th kyu</level>
+            <description>
+                <![CDATA[
+                <h3>Pinan sono Ichi - 平安初段</h3>
+                <p>This is the first kata of the Pinan group, Pinan Shodan - <b>平安初段</b> is loosely based on an I-shaped embusen.<br>It develops body positioning and a number of defensive techniques and a number of attacking techniques in Oi-Tsuki.<br>In Pinan Sono Ichi, above all the leg movements and changes of direction, the posture of the upper body and the tension control are focused upon. This kata is considered the ‘Earth’ kata.</p>
+                <ol>
+                <p>Begin the <b>KATA</b> from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>PINAN SONO ICHI</b> followed by the command <b>YOI</b> start perform a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+                <li>On the command <b>HAJIME/ICHI</b> turn left 90° counterclockwise (<b>KYŪ-JŪ</b>) into left <b>ZENKUTSU DACHI</b> blocking left <b>GEDAN BARAI</b> (pull the right hand back in <b>HIKITE</b> position).</li>
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li>
+                <li>Move the back foot across and turn 180° clockwise (<b>BYAKU HACHI-JŪ</b>) to the right into right <b>ZENKUTSU DACHI</b> blocking right <b>GEDAN BARAI</b>.<br>Slide the right foot back into <b>NEKO ASHI DACHI</b>, strike right <b>TETTSUI KOME KAME UCHI</b>.</li>
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and punch left <b>CHUDAN OI TSUKI</b>.</li>
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li>
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> and block right <b>JODAN UKE</b> (1).</li>
+                <i>When stepping forward, don’t turn your front foot into 45°, this will happen when you punch and twist your hips and whole body.</i>
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> and block left <b>JODAN UKE</b> (2).</li>
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> and block right <b>JODAN UKE</b> with <span class="kiai">KIAI</span> (3).</li>
+                <li>Slide the left foot across and turn through 270° counterclockwise (<b>NI-BAYKU NANA-JŪ</b>) into left <b>ZENKUTSU DACHI</b> blocking left <b>GEDAN BARAI</b>.</li>
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b>.</li>
+                <li>Slide the right foot across and turn 180° clockwise to the left into right <b>ZENKUTSU DACHI</b> blocking right <b>GEDAN BARAI</b>.</li>
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b>.</li>
+                <li>Bring the left foot across 90° counterclockwise to the left into left <b>ZENKUTSU DACHI</b> and block left <b>GEDAN BARAI</b>.</li>
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b> (1).</li>
+                <li>Step forward into left <b>ZENKUTSU DACHI</b> punching left <b>CHUDAN OI TSUKI</b> (2).</li>
+                <li>Step forward into right <b>ZENKUTSU DACHI</b> punching right <b>CHUDAN OI TSUKI</b> with <span class="kiai">KIAI</span> (3).</li>
+                <li>Slide the left foot across and turn through 270° counterclockwise into left <b>KOKUTSU DACHI</b> blocking left <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Step forward <b>MIGI MAE NANAME</b> at 45° clockwise into right <b>KOKUTSU DACHI</b> punching right <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Slide the right foot across and turn 135° clockwise to the right into right <b>KOKUTSU DACHI</b> blocking right <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Step forward <b>HIDARI MAE NANAME</b> at 45° counterclockwise to the left into left <b>KOKUTSU DACHI</b> blocking left <b>SHUTO MAWASHI UKE</b>.</li>
+                <p>On the <b>NAORE</b> command return 45° counterclockwise to the left into <b>FUDO DACHI</b>. Pull left foot back to the base position, still looking right until the turn is completed.<br>At the command <b>YASUME</b> relax and at ease.</p>
+                </ol>
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/WejnMH3Q21w?si=Bp22AI3crdrlC8lD</video_link>
+        </item>
+        <item>
+            <name>Pinan Sono Ni</name>
+            <level>6th kyu</level>
+            <description>
+            <![CDATA[
+            <h3>Pinan Sono Ni - 平安二段</h3>
+            <p>This is the second Kata of the Pinan group, Pinan Nidan - 平安二段. It is loosely based on an I-shaped Embusen and also develops a number of defensive and attacking techniques.<br>Body positioning is developed with the execution of different stances. In Pinan Sono Ni, the balance and control of the body are focused upon.<br>This Kata is considered the ‘Water’ Kata. Fast and smooth, Pinan Nidan comes into its own with smooth and relaxed movements.</p>
+            <p>Begin the KATA from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>PINAN SONO NI</b> followed by the command <b>YOI</b>, start performing a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+            <ol>
+                <li>On the command <b>HAJIME</b>/<b>ICHI</b>, move the left foot to the left and turn left 90° counterclockwise into left <b>KOKUTSU DACHI</b> and pull the right fist back to the right side in the ready punch position with the left fist positioned immediately on, and vertical to, the right fist (right <b>WAKI NO KAMAE</b>).
+                    <br>Execute simultaneously the left arm in <b>UCHI UKE</b> and the right arm in <b>JODAN UKE</b>.</li>
+                <li>Still in the <b>KOKUTSU DACHI</b>, block the opponent's attack firmly with right <b>TETTSUI HIZO UCHI</b>.
+                    <br>The left fist is simultaneously brought back over the right shoulder so that the elbow is level with the jaw (n.b. the back of the fist faces upwards).
+                    <br>Slide through with the left leg into <b>KIBA DACHI</b>, looking to the left and attack with left <b>TETTSUI JODAN YOKO UCHI</b>, simultaneously pulling the right fist into the <b>HIKITE</b> (ready punch) position.</li>
+                <li>Pull the right leg back into right <b>KOKUTSU DACHI</b>, at the same time turning the body 180° clockwise, while simultaneously pulling the left fist back to the left side in the ready punch position and positioning the right fist immediately on, and vertical to, the left fist (left <b>WAKI NO KAMAE</b>).
+                    <br>Execute simultaneously the right arm in <b>UCHI UKE</b> and the left arm in <b>JODAN UKE</b>.</li>
+                <li>Still in the <b>KOKUTSU DACHI</b>, block the opponent's attack firmly with left <b>TETTSUI HIZO UCHI</b>.
+                    <br>Slide through with the right leg into <b>KIBA DACHI</b>, looking to the right and attack with right <b>TETTSUI JODAN YOKO UCHI</b>, simultaneously pulling the left fist into the <b>HIKITE</b> position.</li>
+                <li>Bring the right leg back, turning 90° counterclockwise into <b>TSURU ASHI DACHI</b> and simultaneously bring the fists into left <b>WAKI NO KAMAE</b>.
+                    <br>Kick <b>JODAN YOKO GERI</b> and strike <b>URAKEN JODAN YOKO UCHI</b> with the right fist (n.b. the left fist remains in the ready punch position).
+                    <br>Place the right foot on the ground behind the left foot and turn 180° counterclockwise into left <b>KOKUTSU DACHI</b> and block left <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Move forward into right <b>KOKUTSU DACHI</b> and block right <b>SHUTO MAWASHI UKE</b> (1).</li>
+                <li>Move forward into left <b>KOKUTSU DACHI</b> and block left <b>SHUTO MAWASHI UKE</b> (2).</li>
+                <li>While moving into right <b>ZENKUTSU DACHI</b>, block left <b>SHOTEI OSAE UKE</b>, and at the end of the movement strike right <b>CHUDAN YONHON NUKITE</b> with <span class="kiai">KIAI</span>.</li>
+                <li>Move the left foot 90° counterclockwise and pivot on the right foot into left <b>KOKUTSU DACHI</b> and block left <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Move forward at 45° clockwise into right <b>KOKUTSU DACHI</b> and block right <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Move the right foot 135° clockwise and pivot on the left foot into right <b>KOKUTSU DACHI</b> and block right <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Move forward at 45° counterclockwise into left <b>KOKUTSU DACHI</b> and block left <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Move the left leg across at 45° counterclockwise to the left into left <b>ZENKUTSU DACHI</b>, simultaneously bring the left hand to the level of your right jaw (inside of your hand faced outwards) and additionally, block the opponent's kick with right <b>HAITO UKE</b> (as if scooping up).
+                    <br>Continue this movement slowly (in 3 seconds) by closing the hands and making a right <b>UCHI UKE</b>.</li>
+                <li>Keeping the arms in position, kick right <b>JODAN MAE GERI</b> and move forward into right <b>ZENKUTSU DACHI</b> and punch left <b>CHUDAN GYAKU TSUKI</b>.</li>
+                <li>Block slowly with left <b>UCHI UKE</b> in a count of three. Keeping the arms in this position, kick left <b>JODAN MAE GERI</b> and move forward into left <b>ZENKUTSU DACHI</b> and punch right <b>CHUDAN GYAKU TSUKI</b>.</li>
+                <li>Move forward into right <b>ZENKUTSU DACHI</b> and block right <b>MOROTE CHUDAN UKE</b> (the right fist should come from the left shoulder).</li>
+                <li>Slide the left foot 270° counterclockwise and pivot on the right foot into left <b>ZENKUTSU DACHI</b> and block <b>GEDAN BARAI</b>.</li>
+                <li>In the same stance, strike directly with the left hand <b>JODAN NIHON NUKITE</b> at 45° clockwise and move forward <b>MIGI MAE NANAME</b> at 45° clockwise into right <b>ZENKUTSU DACHI</b> and block right <b>JODAN UKE</b>.</li>
+                <li>Slide the right foot across and turn 135° clockwise to the right into right <b>ZENKUTSU DACHI</b> and block <b>GEDAN BARAI</b>.</li>
+                <li>In the same stance, strike directly with the right hand a right <b>JODAN NIHON NUKITE</b> 45° counterclockwise and move forward <b>HIDARI MAE NANAME</b> 45° counterclockwise into left <b>ZENKUTSU DACHI</b> and block left <b>JODAN UKE</b> and <span class="kiai">KIAI</span>.</li>
+                <p>On the <b>NAORE</b> command, return 45° counterclockwise to the left into <b>FUDO DACHI</b> (pull the left foot back to the base position, looking right until the turn is completed).<br>At the command <b>YASUME</b>, relax and be at ease.</p>
+            </ol>
+
+                
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/6JLhRJdzJyA?si=H9Gg5kDfTfpxcRoc</video_link>
+        </item>
+        <item>
+            <name>Pinan Sono San</name>
+            <level>5th kyu</level>
+            <description>
+            <![CDATA[
+            <h3>Pinan Sono San - 平安三段</h3>
+
+                <p>This is the third Kata of the Pinan group, Pinan Sandan - 平安三段. It is loosely based on an I-shaped Embusen and also develops a number of defensive and attacking techniques.<br>Body positioning is developed with the execution of different stances. Pinan Sono San contains many techniques for close combat and focuses on the usage of Kiba Dachi.<br>This Kata is considered the ‘Fire’ element. Think of fire and see how the flames move. Compare these movements to those of the Kata. The Kata starts small, travels with the wind in fast forward movements.<br>Pinan Sandan is the most peculiar of all base Kata.</p>
+                <p>Begin the KATA from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>PINAN SONO SAN</b> followed by the command <b>YOI</b>, start performing a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+                <ol>
+                <li>On the command <b>HAJIME</b>/<b>ICHI</b>, move the left foot to the left and turn 90° counterclockwise into left <b>KOKUTSU DACHI</b> and block left <b>UCHI UKE</b>.</li>
+                <li>Bring the right foot to the left foot into <b>MUSUBI DACHI</b> and at the same time position the right hand in a <b>GEDAN BARAI</b> position. Block right <b>UCHI UKE</b> / <b>GEDAN BARAI</b>.</li>
+                <li>Block left <b>UCHI UKE</b> / <b>GEDAN BARAI</b>.</li>
+                <li>Move the right foot back 180° clockwise into right <b>KOKUTSU DACHI</b> and block right <b>UCHI UKE</b>.</li>
+                <li>Bring the left foot to the right foot into <b>MUSUBI DACHI</b> and at the same time position the left hand in a <b>GEDAN BARAI</b> position. Block left <b>UCHI UKE</b> / <b>GEDAN BARAI</b>.</li>
+                <li>Block right <b>UCHI UKE</b> / <b>GEDAN BARAI</b>. </li>
+                <li>Move the left foot 90° counterclockwise into left <b>ZENKUTSU DACHI</b> and block <b>MOROTE UCHI UKE</b>.</li>
+                <li>Block left <b>SHUTO OSAE UKE</b> and return the right hand open to the ready punch position. Move forward into right <b>ZENKUTSU DACHI</b> and strike right <b>CHUDAN YONHON NUKITE</b>.</li>
+                <li>Pivot on the right foot counterclockwise 180° and spin into <b>KIBA DACHI</b>, simultaneously the left arm comes over the right one (hands are closing to a fist).
+                    <br>On completion of the turn, into <b>KIBA DACHI</b>, strike left <b>TETTSUI JODAN YOKO UCHI</b>.</li>
+                <li>Move forward into right <b>ZENKUTSU DACHI</b>, punch right <b>CHUDAN OI TSUKI</b> with <span class="kiai">KIAI</span>.</li>
+                <li>Pivot on the right foot and turn 180° counterclockwise into <b>MUSUBI DACHI</b>, simultaneously placing the fists in <b>RYO KEN KOSHI KAMAE</b> (both fists are facing forward on the hips).</li>
+                    <i>After this position has been taken there is a slight pause for a mental count of two before the next technique.</i>
+                <li>Kick right <b>JODAN MAE GERI</b>, bring the foot back and place it down turning your body 90° counterclockwise into <b>KIBA DACHI</b>, immediately block with right <b>CHUDAN HIJI UKE</b>, keeping the fists in <b>RYO KEN KOSHI KAMAE</b> (1).</li>
+                <li>Strike right <b>URAKEN CHUDAN YOKO UCHI</b> and return the fist to the hip position.</li>
+                <li>Kick left <b>JODAN MAE GERI</b>, bring the foot back and place it down turning your body 90° clockwise into <b>KIBA DACHI</b>, immediately block left <b>CHUDAN HIJI UKE</b>, keeping the fists in <b>RYO KEN KOSHI KAMAE</b> (2).</li>
+                <li>Strike left <b>URAKEN CHUDAN YOKO UCHI</b> and return the fist to the hip position.</li>
+                <li>Kick right <b>JODAN MAE GERI</b>, bring the foot back and place it down turning your body 90° counterclockwise into <b>KIBA DACHI</b>, immediately block with right <b>CHUDAN HIJI UKE</b>, keeping the fists in <b>RYO KEN KOSHI KAMAE</b> (3).</li>
+                <li>Strike right <b>URAKEN CHUDAN YOKO UCHI</b> and return the fist to the hip position.</li>
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and punch left <b>CHUDAN OI TSUKI</b>.</li>
+                <li>Move the right foot forward to the left (into <b>HEIKO DACHI</b>),<br>immediately move across into <b>KIBA DACHI</b> and continue the movement by <b>KAITEN ASHI</b> (turning 180° counterclockwise on the right foot) into another <b>KIBA DACHI</b>, simultaneously strike left <b>USHIRO HIJI ATE</b> and right <b>JODAN USHIRO TSUKI</b>.</li>
+                <li>Keeping the arms in the same position, jump to the right, leading with the left foot (hook your leg), land in <b>KIBA DACHI</b> and strike right <b>USHIRO HIJI-ATE</b> and left <b>USHIRO TSUKI</b> with <span class="kiai">KIAI</span>.</li>
+                <p>On the <b>NAORE</b> command return to <b>FUDO DACHI</b> (pull the left foot back to the base position).</p>
+                </ol>
+
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/HqxrJFDqCbw?si=bOrbGR8lW4RRmxPm</video_link>
+        </item>
+        <item>
+            <name>Pinan Sono Yon</name>
+            <level>4th kyu</level>
+            <description>
+            <![CDATA[
+            <h3>Pinan Sono Yon - 平安四段</h3>
+                <p>This is the fourth Kata of the Pinan group, Pinan Yondan - 平安四段. It is loosely based on an I-shaped Embusen and also develops a number of defensive and attacking techniques.<br>The flow of Pinan Yondan is characterized by the dynamic use of ‘double defence’ movements and foot techniques. With many high kicks and hand techniques, one could regard Pinan Yondan as the ‘Wind’ Kata. The air, from the lungs of the Karateka, is undoubtedly a performance of wind while performing the Kata. The kicks are also an indication of nature and the wind.</p>
+                <p>Begin the KATA from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>PINAN SONO ICHI</b> followed by the command <b>YOI</b>, start performing a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+                <ol>
+                <li>On the command <b>HAJIME</b>/<b>ICHI</b>, turn left 90° anti-clockwise into left <b>KOKUTSU DACHI</b>, simultaneously pulling the right fist back to the right side in the ready punch position and positioning the left fist immediately on, and vertical to, the right fist (right <b>WAKI NO KAMAE</b>). Without moving the body or its direction, simultaneously move the left arm into a <b>SHUTO UCHI UKE</b> and raise the right arm into a <b>SHUTO JODAN UKE</b> (to the side of the head).</li>
+                <li>Move the left foot across, turning the body 180° clockwise into right <b>KOKUTSU DACHI</b>, simultaneously pulling the left and right fists back into left <b>WAKI NO KAMAE</b>. Without moving the body or its direction, move the right arm across into a <b>SHUTO UCHI UKE</b> and raise the left arm into a <b>SHUTO JODAN UKE</b>.</li>
+                <li>Move the left foot 90° anti-clockwise, position the hands by the right ear in the <b>SEIKEN JUJI</b> position, and complete the turn into left <b>ZENKUTSU DACHI</b>, simultaneously blocking right <b>SEIKEN JUJI GEDAN UKE</b> (right arm above left).</li>
+                <li>Move forward into right <b>ZENKUTSU DACHI</b> and block right <b>MOROTE UCHI UKE</b> (the right fist comes from the left shoulder).</li>
+                <li>Bring the left leg slowly into <b>TSURU ASHI DACHI</b> and move the right and left fists back into right <b>WAKI NO KAMAE</b>.</li>
+                <li>Kick left <b>JODAN YOKO GERI</b> and simultaneously strike left <b>URAKEN YOKO UCHI</b> (the right fist remains in the ready punch position). Bring the left foot back into <b>TSURU ASHI DACHI</b> and open the left fist in the <b>SHUTO</b> position. Then step down to the left into left <b>ZENKUTSU DACHI</b>. While turning the hips 90° anti-clockwise into the stance, strike right <b>HIJI JODAN ATE</b>, hitting the open left hand.</li>
+                <li>Turn the body 45° and lift the right leg slowly into <b>TSURU ASHI DACHI</b>, moving the left and right fists back into left <b>WAKI NO KAMAE</b>.</li>
+                <li>Kick right <b>JODAN YOKO GERI</b> and simultaneously strike right <b>URAKEN YOKO UCHI</b>. Bring the right foot back into <b>TSURU ASHI DACHI</b> and open the right fist in the <b>SHUTO</b> position. Then step down to the right into <b>ZENKUTSU DACHI</b>. While turning the hips into the stance, strike left <b>HIJI JODAN ATE</b>, hitting the open hand.</li>
+                <li>Partially turn the upper body and head 135° anti-clockwise to the left, retaining the <b>ZENKUTSU DACHI</b> stance. Bring the right hand behind the head in the <b>SHUTO</b> position and extend the left arm with the hand open in a <b>SHUTO JODAN</b> cover position so that it is level with your head. Complete the turn into left <b>ZENKUTSU DACHI</b> and strike right <b>GYAKU SHUTO YOKO GANMEN UCHI</b> (the strike must not pass across the body's centre line) and at the same time pull the left hand back so that it is one fist away from the forehead with the palm facing away from the body.</li>
+                <li>Kick right <b>JODAN MAE GERI</b> at 45° clockwise (from 135° <b>ZENKUTSU DACHI</b> position) with the hands in the same position (to the front). Pull the right leg back into the <b>TSURU ASHI DACHI</b> position and cover with left <b>SHOTEI</b> and prepare to strike with right <b>URAKEN</b>. Jump to the front into right <b>KAKE DACHI</b> and as you land in <b>KAKE DACHI</b>, strike right <b>URAKEN SHOMEN UCHI</b> with <span class="kiai">KIAI</span> (as you strike, the left hand moves outside the right and returns to the left ready punch position, closed).</li>
+                <li>From <b>KAKE DACHI</b>, turn 135° anti-clockwise to the left moving the left foot into left <b>ZENKUTSU DACHI</b> and simultaneously execute a slow <b>MOROTE GEDAN BARAI</b> (<b>KAKE WAKE UKE</b> - downwards cross arm block with the hands closed, left over right).</li>
+                <li>Kick right <b>CHUDAN MAE GERI</b> and move into right <b>ZENKUTSU DACHI</b> and execute <b>NIHON CHUDAN TSUKI</b> (left and right).</li>
+                <li>Move the right leg across 90° to the right (do not bring the feet together) into right <b>ZENKUTSU DACHI</b> and execute a slow <b>MOROTE GEDAN BARAI</b> (<b>KAKE WAKE UKE</b> - downwards cross arm block with the hands closed, right over left).</li>
+                <li>Kick left <b>CHUDAN MAE GERI</b> and move into left <b>ZENKUTSU DACHI</b> and execute <b>NIHON CHUDAN TSUKI</b> (right and left).</li>
+                <li>Move to the left 45° into left <b>ZENKUTSU DACHI</b> and position the arms for <b>MOROTE UKE</b>. Complete the turn and execute a left <b>MOROTE UCHI UKE</b> block.</li>
+                <li>Move forward into right <b>ZENKUTSU DACHI</b> and block right <b>MOROTE UCHI UKE</b>.</li>
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and block left <b>MOROTE UCHI UKE</b>.</li>
+                <li>Open both hands and grab for an imaginary opponent's head to the front.</li>
+                <li>Pull your hands down, kick right <b>HIZA GERI</b> and <span class="kiai">KIAI</span> (as if pulling the opponent's head onto your knee). Place the right foot left in front of you and turn 180° into a left <b>KOKUTSU DACHI</b> and execute a <b>SHUTO MAWASHI UKE</b>.</li>
+                <li>Move forward into right <b>KOKUTSU DACHI</b> and execute a <b>SHUTO MAWASHI UKE</b>.</li>
+                <p>On the <b>NAORE</b> command, return to <b>FUDO DACHI</b> (pull left foot back to the base position, still looking right until the turn is completed).</p>
+                </ol>
+
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/WrFtKCmgdwU?si=qDTe0_GvQnuiLf61</video_link>
+        </item>
+        <item>
+            <name>Pinan Sono Go</name>
+            <level>4th kyu</level>
+            <description>
+            <![CDATA[
+            <h3>Pinan Sono Go - 平安五段</h3>
+                <p><b>Pinan Godan - 平安五段</b> is the last Kata in the Pinan group and is practiced in order to unite several of the core aspects of Karate: Defence of <b>JODAN</b>, <b>CHUDAN</b>, and <b>GEDAN</b> areas;
+                <br>seizing and countering an opponent’s attack, followed by a change of direction to face the next opponent. The use of jump, parry, and counter techniques in conjunction with flowing techniques.
+                <br>The execution of this Kata places high emphasis on rhythm and timing. It contains techniques for close combat and focuses on the usage of <b>KIBA DACHI</b>. The flow of <b>Pinan Godan</b> is characterized by the dynamic use of ‘double defence’ movements and foot techniques (<b>Ashi Sabaki</b>). It is the Kata of ‘Emptiness’. During the jump, you are 'loose' from the ground, from an opponent, from everything. The Karateka should now master enough basic techniques to stand up in a self-defense situation and there may be a ‘Peaceful Spirit’.</p>
+                <p>Begin the KATA from the base <b>KAMAE</b> position in <b>FUDO DACHI</b>. On the command <b>PINAN SONO GO</b> followed by the command <b>YOI</b>, start performing a slow <b>YOI DACHI</b> that ends in <b>HEIKO DACHI</b>.</p>
+                <ol>
+                <li>On the command <b>HAJIME</b>/<b>ICHI</b>, turn left 90° anti-clockwise into left <b>KOKUTSU DACHI</b>, block left <b>UCHI UKE</b>, and punch right <b>CHUDAN GYAKU TSUKI</b>.</li>
+                <li>Turning 90°, return the left foot into <b>HEISOKU DACHI</b> simultaneously, pulling the right fist slowly back into right <b>WAKI no KAMAE</b> (left fist on top of the right one).</li>
+                <li>Move the right foot across and turn 90° into right <b>KOKUTSU DACHI</b> and block right <b>UCHI UKE</b> and punch left <b>CHUDAN GYAKU TSUKI</b>.</li>
+                <li>Turning 90° anti-clockwise, return the right foot into <b>HEISOKU DACHI</b> simultaneously pulling the left fist slowly back into left <b>WAKI no KAMAE</b> (right fist on top of the left one).</li>
+                <li>Move forward into right <b>ZENKUTSU DACHI</b> and block right <b>MOROTE UCHI UKE</b>.</li>
+                <li>Move forward into left <b>ZENKUTSU DACHI</b> and block <b>JUJI GEDAN UKE</b> (the block is executed from the <b>JUJI</b> position from the right ear).</li>
+                <li>Drive both arms up into <b>SHUTO JUJI JODAN UKE</b> (left arm under right).</li>
+                <li>Execute a twisting movement with both <b>SHUTO</b> hands and then pull them back into right <b>SHUTO WAKI no KAMAE</b> (left <b>SHUTO</b> hand on top of the right one).</li>
+                <li>Move forward into right <b>ZENKUTSU DACHI</b>, punch right <b>CHUDAN OI TSUKI</b> and <span class="kiai">KIAI</span> simultaneously pulling the left hand back closed to the ready punch position.</li>
+                <li>Turn 180° anti-clockwise, pivoting on the left foot, blocking right leg <b>TEISOKU UKE</b> and prepare to block <b>GEDAN BARAI</b> (the leg block is executed as if being attacked from behind and the left hand covers the groin), stamp with the right foot into <b>KIBA DACHI</b> and block right <b>GEDAN BARAI</b> with <span class="kiai">KIAI</span>.</li>
+                <li>Quickly turn your head 180° anti-clockwise to the left and bring the right palm in front of your face to cover with <b>SHOTEI</b> (the open left hand is positioned under the right arm). Bring the left hand slowly from under the right armpit and block <b>HAISHU UKE</b> at approximately head height, simultaneously pulling the right hand back closed to the ready punch position.</li>
+                <li>Kick hard and fast right with <b>TEISOKU MAWASHI GERI</b> on your left open hand. Return the right leg in <b>TSURU ASHI DACHI</b> and strike the left open hand with a right <b>HIJI JODAN UCHI</b>. Continue the movement by jumping into <b>KAKE DACHI</b> and block with right <b>MOROTE UCHI UKE</b>.</li>
+                <li>From the <b>KAKE DACHI</b> position, turn your head 180° anti-clockwise and step 90° anti-clockwise into left <b>KOKUTSU DACHI</b>, and simultaneously strike a right <b>MOROTE JODAN AGE TSUKI</b>.</li>
+                <li>Pull both fists back into the ready punch position, whilst leaping in the air turning 90° anti-clockwise to the left, and land into a low <b>KAKE DACHI</b> blocking <b>JUJI GEDAN UKE</b> with <span class="kiai">KIAI</span>.</li>
+                <li>Move the right foot across and turn 90° clockwise into right <b>ZENKUTSU DACHI</b> and block right <b>MOROTE UCHI UKE</b>.</li>
+                <li>Move the left foot 45° anti-clockwise to the right, pivoting on the right foot, into left <b>ZENKUTSU DACHI</b> and block a right <b>SHOTEI GEDAN UKE</b> whilst bringing your left <b>SHUTO</b> hand up to the right ear.</li>
+                <li>Turn the hips 90° anti-clockwise into left <b>KIBA DACHI</b>, pull the right hand back, and extend it fully upwards above the right shoulder with the fist closed, simultaneously block left <b>GEDAN BARAI</b> and keep the head facing the direction of the block (right <b>MANJI UKE</b>).</li>
+                <li>Retaining the arm positions, bring the left foot to the right at 45° anti-clockwise, into <b>MUSUBI DACHI</b>.</li>
+                <li>Move the right foot 45° to the right into right <b>ZENKUTSU DACHI</b> and block a left <b>SHOTEI GEDAN UKE</b> whilst bringing your right <b>SHUTO</b> hand up to the left ear.</li>
+                <li>Turn the hips 90° clockwise into right <b>KIBA DACHI</b>, pull the left hand back and extend it fully upwards above the left shoulder with fist closed, simultaneously block right <b>GEDAN BARAI</b> and keep the head facing the direction of the block (left <b>MANJI UKE</b>).</li>
+                <li>On the <b>NAORE</b> command, move the right foot 45° clockwise back into <b>FUDO DACHI</b>.</li>
+                </ol>
+
+                ]]>
+            </description>
+            <video_link>https://www.youtube.com/embed/R6ZB1dYoPXY?si=zuUDW80Zdbe3V1KR</video_link>
+        </item>
+        <item>
+            <name>Sanchin</name>
+            <level>4th kyu</level>
+            <description>
+            <![CDATA[
+
+                ]]>
+            </description>
+            <video_link></video_link>
+        </item>
+    </category>
+<category name="Renraku">
+    <item>
+        <name>10th kyu</name>
+        <level>10th kyu</level>
+        <description>Basic punch</description>
+        <video_link></video_link>
+    </item>
+</category>
+<category name="Renzuku">
+    <item>
+        <name>10th kyu</name>
+        <level>10th kyu</level>
+        <description>Basic punch</description>
+        <video_link></video_link>
+    </item>
+</category>
+<category name="Ippon Kumite">
+    <item>
+        <name>10th kyu</name>
+        <level>10th kyu</level>
+        <description>Basic punch</description>
+        <video_link></video_link>
+    </item>
+</category>
+<category name="Sanbon Kumite">
+    <item>
+        <name>10th kyu</name>
+        <level>10th kyu</level>
+        <description>Basic punch</description>
+        <video_link></video_link>
+    </item>
+</category>
+</karate>
