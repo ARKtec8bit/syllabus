@@ -6,21 +6,22 @@ document.addEventListener('DOMContentLoaded', () => {
             const xmlDoc = parser.parseFromString(xmlString, 'application/xml');
             const karateData = parseKarateData(xmlDoc);
             initializeApp(karateData);
-        });
+        })
+        .catch(error => console.error('Error fetching XML:', error));
 });
 
 function parseKarateData(xmlDoc) {
     const data = {};
     const categories = xmlDoc.getElementsByTagName('category');
-    for (let category of categories) {
+    for (const category of categories) {
         const categoryName = category.getAttribute('name');
         data[categoryName] = [];
         const items = category.getElementsByTagName('item');
-        for (let item of items) {
+        for (const item of items) {
             const name = item.getElementsByTagName('name')[0].textContent;
             const level = item.getElementsByTagName('level')[0].textContent;
             const description = item.getElementsByTagName('description')[0].textContent;
-            const videoLink = item.getElementsByTagName('video_link')[0].textContent;
+            const videoLink = item.getElementsByTagName('video_link')[0]?.textContent || ''; // Check if video_link exists
             data[categoryName].push({
                 name,
                 level,
@@ -39,33 +40,42 @@ function initializeApp(karateData) {
     document.getElementById('category').addEventListener('change', () => updateNameCombo(karateData));
     document.getElementById('level').addEventListener('change', () => updateNameCombo(karateData));
     document.getElementById('name').addEventListener('change', () => showDetails(karateData));
+
+    // Ensure initial population of name combo and details view
+    updateNameCombo(karateData); 
 }
 
 function populateCategoryCombo(karateData) {
     const categorySelect = document.getElementById('category');
+    categorySelect.innerHTML = ''; // Clear existing options
     for (const category in karateData) {
         const option = document.createElement('option');
         option.textContent = category;
         option.value = category;
         categorySelect.appendChild(option);
     }
+    categorySelect.dispatchEvent(new Event('change')); 
 }
 
 function populateLevelCombo(karateData) {
     const levelSelect = document.getElementById('level');
-    const levels = new Set();
+    levelSelect.innerHTML = ''; // Clear existing options
+    const levels = new Set(['All']);
     for (const category in karateData) {
         karateData[category].forEach(item => levels.add(item.level));
     }
-
-    const orderedLevels = Array.from(levels).sort((a, b) => b.localeCompare(a, undefined, { numeric: true }));
-
+    const orderedLevels = Array.from(levels).sort((a, b) => {
+        if (a === 'All') return -1; // Ensure 'All' is the first option
+        if (b === 'All') return 1; 
+        return a.localeCompare(b, undefined, { numeric: true });
+    });
     orderedLevels.forEach(level => {
         const option = document.createElement('option');
         option.textContent = level;
         option.value = level;
         levelSelect.appendChild(option);
     });
+    levelSelect.dispatchEvent(new Event('change')); 
 }
 
 function updateNameCombo(karateData) {
@@ -94,9 +104,9 @@ function showDetails(karateData) {
     
     if (item) {
         detailsDiv.innerHTML = `
-        <h2>${item.name} (${item.level})</h2>
-        <p>${item.description}</p>
-        <iframe width="560" height="315" src="${item.video_link}" frameborder="0" allowfullscreen></iframe>
+            <h2>${item.name} (${item.level})</h2>
+            <p>${item.description}</p>
+            ${item.video_link ? `<iframe width="560" height="315" src="${item.video_link}" frameborder="0" allowfullscreen></iframe>` : ''}
         `;
     }
 }

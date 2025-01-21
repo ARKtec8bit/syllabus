@@ -1,5 +1,976 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <karate>
+    <category name="Syllabus">
+        <item>
+            <name>10th KYU - RED BELT</name>
+            <level>10th kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3> 
+            <ul> 
+                <li>Dojo etiquette</li> 
+                <li>How to wear a Gi and tie an Obi</li> 
+                <li>Counting to 10 in Japanese</li> 
+                <li>Minimum of 3 months of training</li> 
+            </ul>
+
+            <h3>Kihon Geiko:</h3> 
+            <ul> 
+                <li>Seiken Morote Tsuki</li> 
+                <li>Seiken Oi Tsuki</li> 
+                <li>Seiken Jodan Uke</li> 
+                <li>Seiken Mae Gedan Barai</li> 
+                <li>Hiza Ganmen Geri</li> 
+                <li>Haisoku Kintaki Geri</li> 
+            </ul>
+
+            <h3>Stances:</h3> 
+            <ul> 
+                <li>Fudo Dachi</li> 
+                <li>Zenkutsu Dachi</li> 
+                <li>Yoi Dachi</li> 
+            </ul>
+
+            <h3>Kata:</h3> 
+            <ul>
+                <li>Taikyoku Sono Ichi</li>
+            </ul>
+
+            <h3>Renzoku Waza:</h3> 
+            <ol> 
+                <li>Zenkutsu Dachi, Chudan Seiken Morote Tsuki, Step forward Zenkutsu Dachi, Jodan Oi Tsuki, Gedan Gyaku Tsuki</li> 
+                <li>Step forward Zenkutsu Dachi, Seiken Jodan Uke, Seiken Gedan Barai, Chudan Soto Uke, Uraken Ganmen Uchi, Chudan Seiken Gyaku Tsuki</li> 
+                <li>Grab forward, flare elbows, Hiza Ganmen Geri, Haisoku Kintaki Geri, Mae Geri Kikomi stepping into Zenkutsu Dachi, strike Ago Uchi</li> 
+            </ol>
+
+            <h3>Ido Geiko:</h3> 
+            <ul> 
+                <p>All In Zenkutsu Dachi:</p> 
+                <li>Seiken Jodan Oi Tsuki</li> 
+                <li>Seiken Chudan Oi Tsuki</li> 
+                <li>Seiken Jodan Uke</li> 
+                <li>Seiken Chudan Soto Uke</li> 
+                <li>Seiken Chudan Uchi Uke</li> 
+                <li>Seiken Mae Gedan Barai</li> 
+                <li>Mae Geri Keage</li> 
+                <li>Mae Geri Kekomi</li> 
+                <li>Seiken Gyaku Chudan Tsuki</li> 
+            </ul>
+
+            <h3>Renraku:</h3> 
+            <ul>
+            <li>Seiken Gyaku Tsuki (Chudan or Jodan), Mae Geri Chudan Chusoku, return and cover</li>
+            </ul>
+
+            <h3>Kumite:</h3> 
+            <ul>
+                <li>5 x 1-minute rounds</li>
+            </ul>
+            <h3>Fitness Requirements:</h3> 
+            <ul> 
+                <li>10 Push-ups</li> 
+                <li>10 Sit-ups</li> 
+                <li>10 Squats</li> 
+            </ul> 
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>9th Kyu - RED BELT BLACK STRIPE</name>
+            <level>9th kyu</level>
+            <description><![CDATA[
+
+            <h3>Students will have to demonstrate the following:</h3>
+            <ul>
+                <li>All prior requirements.</li>
+                <li>How to fold a Gi.</li>
+                <li>The meaning of Kyokushin.</li>
+                <li>Minimum of 3 months of training.</li>
+            </ul>
+
+            <h3>Kihon Geiko:</h3>
+            <ul>
+                <li>Seiken Gyaku Tsuki.</li>
+                <li>Seiken Ago Uchi.</li>
+                <li>Seiken Chudan Soto Uke.</li>
+                <li>Seiken Chudan Uchi Uke.</li>
+                <li>Chudan Mae Geri.</li>
+            </ul>
+
+            <h3>Stances:</h3>
+            <ul>
+                <li>Kiba Dachi.</li>
+                <li>Kamae Dachi.</li>
+                <li>Heiko Dachi.</li>
+                <li>Sanchin Dachi.</li>
+            </ul>
+
+            <h3>Kata:</h3>
+            <ul>
+                <li>Taikyoku Sono Ni.</li>
+            </ul>
+
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Zenkutsu Dachi, Shuto Ganmen Uchi. Kiba Dachi, Uraken Sayo Uchi. Zenkutsu Dachi, Seiken Chudan Uchi Uke.</li>
+                <li>Step into Kokutsu Dachi, Shita Tsuki, Hiji Jodan Ate, slide into Zenkutsu Dachi Seiken Chudan Soto Uke.</li>
+                <li>Uchi Mawashi Keage, Soto Mawashi Keage.</li>
+            </ol>
+
+            <h3>Ido Geiko:</h3>
+            <ul>
+                <li>All in Zenkutsu Dachi
+                    <ul>
+                        <li>Sanbon Seiken Chudan Tsuki.</li>
+                        <li>Gohon Seiken Chudan Tsuki.</li>
+                        <li>Seiken Jodan, Gedan, Chudan Tsuki.</li>
+                        <li>Seiken Jodan Uke, Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Chudan Soto Uke, Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Chudan Uchi Uke, Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Mae Gedan Barai, Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Jodan Uke, Nihon Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Chudan Soto Uke, Nihon Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Chudan Uchi Uke, Nihon Seiken Chudan Gyaku Tsuki.</li>
+                        <li>Seiken Mae Gedan Barai, Nihon Seiken Chudan Gyaku Tsuki.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Chudan Mae Geri Chusoku, Seiken Gyaku Tsuki Chudan. Return and cover.</li>
+            </ul>
+
+            <h3>Kumite:</h3>
+            <ul>
+                <li>8 x 1-minute rounds</li>
+            </ul>
+
+            <h3>Fitness Requirements:</h3>
+            <ul>
+                <li>20 Push-ups</li>
+                <li>20 Sit-ups</li>
+                <li>20 Squats</li>
+            </ul>
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>8th Kyu - BLUE BELT</name>
+            <level>8th kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3>
+            <ul>
+                <li>All prior requirements.</li>
+                <li>History of Kyokushin and Sosai Mas Oyama.</li>
+                <li>Understanding the Dojo Kun.</li>
+                <li>Minimum of 3 months of training.</li>
+            </ul>
+
+            <h3>Kihon Geiko:</h3>
+            <ul>
+                <li>Seiken Shita Tsuki.</li>
+                <li>Seiken Tate Tsuki.</li>
+                <li>Seiken Jun Tsuki.</li>
+                <li>Seiken Chudan Morote Uchi Uke.</li>
+                <li>Seiken Uchi Uke Gedan Barai.</li>
+                <li>Jodan Mae Geri.</li>
+            </ul>
+
+            <h3>Stances:</h3>
+            <ul>
+                <li>Kokutsu Dachi.</li>
+                <li>Musubi Dachi.</li>
+            </ul>
+
+            <h3>Kata:</h3>
+            <ul>
+                <li>Taikyoku Sono San.</li>
+            </ul>
+
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>90-degree Kiba Dachi, Chudan Jun Tsuki, Uraken Hizo Uchi. Step across into Zenkutsu Dachi, Chudan Morote Uchi Uke, Gedan Barai, Chudan Uchi Uke.</li>
+                <li>Step into Kokutsu Dachi, Oi Uraken Mawashi Ganmen Uchi, Gyaku Chudan Tate Tsuki. Slide forward into Zenkutsu Dachi, Oi Shuto Sakotsu Uchi.</li>
+                <li>Turn 90 degrees, Yoko Keage, bring leg back, Jodan Mae Geri bring leg back, Gedan Mawashi Geri step forward.</li>
+            </ol>
+
+            <h3>Ido Geiko:</h3>
+            <ul>
+                <li>All In Zenkutsu Dachi
+                    <ul>
+                        <li>Mawashi Geri Gedan.</li>
+                        <li>Mawashi Geri Chudan Chusoku.</li>
+                        <li>Mawashi Geri Jodan Heisoku.</li>
+                        <li>Mae Geri Keage Sanbon.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Chudan Soto Uke, Seiken Mae Gedan Barai, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+
+            <h3>Kumite:</h3>
+            <ul>
+                <li>10 x 1-minute rounds.</li>
+            </ul>
+
+            <h3>Fitness Requirements:</h3>
+            <ul>
+                <li>30 Push-ups</li>
+                <li>30 Sit-ups</li>
+                <li>30 Squats</li>
+            </ul>
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>7th Kyu - BLUE BELT BLACK STRIPE</name>
+            <level>7th kyu</level>
+            <description><![CDATA[
+             <h3>Students will have to demonstrate the following:</h3>
+            <ul>
+                <li>All prior requirements.</li>
+                <li>Recite Dojo Kun.</li>
+                <li>Minimum of 3 months of training.</li>
+            </ul>
+
+            <h3>Kihon Geiko:</h3>
+            <ul>
+                <li>Tetsui Oroshi Ganmen Uchi.</li>
+                <li>Tetsui Kome Kami.</li>
+                <li>Tetsui Hizo Uchi.</li>
+                <li>Tetsui Mae Yoko Uchi.</li>
+                <li>Seikan Mawashi Gedan Barai.</li>
+                <li>Shuto Mawashi Uke.</li>
+                <li>Mae Keage Chusoku.</li>
+                <li>Soto Mawashi Keage Teisoku.</li>
+                <li>Uchi Mawashi Keage Haisoku.</li>
+            </ul>
+
+            <h3>Stances:</h3>
+            <ul>
+                <li>Neko Ashi Dachi.</li>
+            </ul>
+
+            <h3>Kata:</h3>
+            <ul>
+                <li>Sokugi Taikyoku Sono San.</li>
+                <li>Pinan Sono Ichi.</li>
+            </ul>
+
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Step into Kokutsu Dachi, block Shuto Mawashi Uke, then strike Tetsui Kome Kami. Slide forward into Zenkutsu Dachi and strike, Gyaku Tetsui Oroshi Ganmen Uchi followed by Oi Tetsui Hiza Uchi.</li>
+                <li>Step into Zenkutsu Dachi, strike Oi Shuto Uchi Uke, Gyaku Shuto Sakotsu Uchi Komi, Oi Shuto Hizo Uchi.</li>
+                <li>Rear leg Chudan Mawashi Geri (return foot to rear), Gedan Kakato Geri, step forward into Zenkutsu Dachi.</li>
+            </ol>
+
+            <h3>Ido Geiko:</h3>
+            <ul>
+                <li>All In Zenkutsu Dachi
+                    <ul>
+                        <li>Sanbon Mae Geri Keage Sanbon.</li>
+                        <li>Gohon Mae Geri Keage Sanbon.</li>
+                        <li>Mae Geri Kekomi Chudan Ippon, Chudan Nihon, Jodan Sanbon.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Step forward Seiken Gyaku Tsuki Chudan, Hidari Mae Geri Chudan Chusoku, Migi Mae Geri Chudan Chusoku, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+
+            <h3>Kumite:</h3>
+            <ul>
+                <li>6 x 1.5-minute rounds.</li>
+            </ul>
+
+            <h3>Fitness Requirements:</h3>
+            <ul>
+                <li>40 Push-ups.</li>
+                <li>40 Sit-ups.</li>
+                <li>40 Squats.</li>
+            </ul>
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>6th Kyu - YELLOW BELT</name>
+            <level>6th kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3>
+            <ul>
+                <li>Demonstrate application of Pinan Sono Ichi.</li>
+                <li>Minimum of 3 months of training.</li>
+            </ul>
+
+            <h3>Kihon Geiko:</h3>
+            <ul>
+                <li>Uraken Ganmen Uchi.</li>
+                <li>Uraken Sayu Uchi.</li>
+                <li>Uraken Hizo Uchi.</li>
+                <li>Uraken Oroshi Ganmen Uchi.</li>
+                <li>Uraken Mawashi Uchi.</li>
+                <li>Nihon Nukite.</li>
+                <li>Yonhon Nukite.</li>
+                <li>Seiken Juji Uke, Jodan & Gedan.</li>
+                <li>Mawashi Gedan Geri, Haisoku & Chusoku.</li>
+                <li>Kansetsu Geri Sokuto.</li>
+                <li>Chudan Yoko Geri Sokuto.</li>
+            </ul>
+
+            <h3>Stances:</h3>
+            <ul>
+                <li>Kake Dachi.</li>
+                <li>Tsurusashi Dachi.</li>
+            </ul>
+
+            <h3>Kata:</h3>
+            <ul>
+                <li>Pinan Sono Ni.</li>
+                <li>Sokugi Taikyoku Sono Ni.</li>
+                <li>Bo Kata Taikyoku Sono Ichi.</li>
+            </ul>
+
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Step into Zenkutsu Dachi, strike Oi Jodan Nihon Nukite, Gyaku Chudan Yonhon Nukite, Oi Uraken Oroshi Ganmen Uchi.</li>
+                <li>Step into Zenkutsu Dachi, block Gedan Seiken Juji Uke, Seiken Jodan Juji Uke.</li>
+                <li>Kansetsu Geri, return foot to rear then Chudan Yoko Geri. Step forward into Zenkutsu Dachi.</li>
+            </ol>
+
+            <h3>Ido Geiko:</h3>
+            <ul>
+                <li>In Zenkutsu Dachi
+                    <ul>
+                        <li>Yoko Geri.</li>
+                        <li>Jodan Uke, Soto Uke, Uchi Uke, Gedan Barai, Chudan Tsuki (alternate arms).</li>
+                        <li>Jodan Uke, Soto Uke, Uchi Uke, Gedan Barai (same arm), Gyaku Tsuki.</li>
+                    </ul>
+                </li>
+                <li>In Kokutsu Dachi
+                    <ul>
+                        <li>Seiken Chudan Uchi Uke.</li>
+                        <li>Seiken Chudan Uchi Uke, Seiken Chudan Tsuki.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Gedan Mawashi Geri (Chusoku or Haisoku), Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+
+            <h3>Kumite:</h3>
+            <ul>
+                <li>8 x 1.5-minute rounds.</li>
+            </ul>
+
+            <h3>Fitness Requirements:</h3>
+            <ul>
+                <li>50 Push-ups.</li>
+                <li>50 Sit-ups.</li>
+                <li>50 Squats.</li>
+            </ul>
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>5th Kyu - YELLOW BELT BLACK STRIPE</name>
+            <level>5th kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3>
+            <ul>
+                <li>Demonstrate application of Pinan Sono Ni.</li>
+                <li>Minimum of 3 months of training.</li>
+            </ul>
+
+            <h3>Kihon Geiko:</h3>
+            <ul>
+                <li>Shotei Uchi Jodan.</li>
+                <li>Shotei Uchi Chudan.</li>
+                <li>Shotei Uchi Gedan.</li>
+                <li>Jodan Hiji Ate.</li>
+                <li>Shotei Uke Jodan.</li>
+                <li>Shotei Uke Chudan.</li>
+                <li>Shotei Uke Gedan.</li>
+                <li>Mawashi Chudan Geri, Haisoku & Chusoku.</li>
+                <li>Ushiro Geri Chudan from spin.</li>
+                <li>Ushiro Geri Chudan from Kake Dachi.</li>
+            </ul>
+
+            <h3>Stances:</h3>
+            <ul>
+                <li>Moroashi Dachi.</li>
+            </ul>
+
+            <h3>Kata:</h3>
+            <ul>
+                <li>Pinan Sono San.</li>
+                <li>Sokugi Taikyoku Sono San.</li>
+                <li>Bo Kata Taikyoku Sono Ni.</li>
+            </ul>
+
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Step into Zenkutsu Dachi, block, Oi Seiken Jodan Uchi Uke, Oi Jodan Shotei Uchi.</li>
+                <li>Step through into Kiba Dachi (facing to the front) and Mae Shuto Mawashi Uke, then Ushiro Hiji Ate, Mae Chudan Hiji Ate (with the same arm). Step forward into Migi Zenkutsu Dachi with Oi Age Hiji Ate, Jodan Oroshi Hiji Ate (same arm).</li>
+                <li>Jodan Mawashi Geri with rear leg and step forward into Zenkutsu Dachi.</li>
+            </ol>
+
+            <h3>Ido Geiko:</h3>
+            <ul>
+                <li>In Kokutsu Dachi
+                    <ul>
+                        <li>Seiken Chudan Uchi Uke, Uraken Ganmen Uchi (off same hand).</li>
+                        <li>Shuto Mawashi Uke.</li>
+                        <li>Shuto Mawashi Uke, Seiken Chudan Morote Tsuki.</li>
+                        <li>Mae Shotei Mawashi Uke.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Chudan Mae Yoko Geri, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+
+            <h3>Kumite:</h3>
+            <ul>
+                <li>10 x 1.5-minute rounds.</li>
+            </ul>
+
+            <h3>Fitness Requirements:</h3>
+            <ul>
+                <li>60 Push-ups.</li>
+                <li>60 Sit-ups.</li>
+                <li>60 Squats.</li>
+            </ul>
+           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>4th Kyu - GREEN BELT</name>
+            <level>4th kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Pinan Sono San.</li>
+        <li>Minimum of 3 months of training.</li>
+    </ul>
+
+    <h3>Kihon Geiko:</h3>
+    <ul>
+        <li>Shuto Sakotsu Uchi.</li>
+        <li>Shuto Yoko Ganmen Uchi.</li>
+        <li>Shuto Sakotsu Uchi Komi.</li>
+        <li>Shuto Hizo Uchi.</li>
+        <li>Shuto Jodan Uchi Uchi.</li>
+        <li>Shuto Jodan Uchi Uke.</li>
+        <li>Shuto Jodan Uke.</li>
+        <li>Shuto Gedan Uchi Uke.</li>
+        <li>Shuto Gedan Soto Uke.</li>
+        <li>Shuto Mae Gedan Barai.</li>
+        <li>Shuto Mawashi Uke.</li>
+        <li>Mawashi Jodan Geri, Haisoku & Chusoku.</li>
+        <li>Jodan Yoko Geri.</li>
+        <li>Ushiro Geri Jodan.</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Sanchin.</li>
+        <li>Sokugi Taikyoku Sono Yon.</li>
+        <li>Bo Kata Taikyoku Sono San.</li>
+    </ul>
+
+    <h3>Renzoku Waza:</h3>
+    <ol>
+        <li>From Zenkutsu Dachi, (with rear leg) Ushiro Geri into Kokutsu Dachi, Oi Osai Uke, Gyaku Furi Uchi.</li>
+        <li>Rear leg Ushiro Mawashi Kakato Geri into Kokutsu Dachi, Oi Gedan Shotei Uke, Jodan Morote Shotei Uke.</li>
+        <li>Rear leg Ushiro Uchi Mawashi Geri into Zenkutsu Dachi.</li>
+    </ol>
+
+    <h3>Ido Geiko:</h3>
+    <ul>
+        <li>In Zenkutsu Dachi
+            <ul>
+                <li>Gedan Barai, Uchi Uke, Soto Uke, Jodan Uke, Chudan Tsuki (alternate arms).</li>
+                <li>Gedan Barai, Uchi Uke, Soto Uke, Jodan Uke (same arm), Gyaku Tsuki.</li>
+                <li>Soto Mawashi Keage.</li>
+                <li>Uchi Mawashi Keage.</li>
+                <li>Mawashi Gedan Nihon, Chudan Nihon, Jodan Sanbon.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Renraku:</h3>
+    <ul>
+        <li>Chudan Ushiro Geri, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>12 x 1.5-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>70 Push-ups</li>
+        <li>70 Sit-ups</li>
+        <li>70 Squats</li>
+    </ul>
+           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>3rd Kyu - GREEN BELT BLACK STRIPE</name>
+            <level>3rd kyu</level>
+            <description><![CDATA[
+    <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Sanchin.</li>
+        <li>Minimum of 3 months of training.</li>
+    </ul>
+
+    <h3>Kihon Geiko:</h3>
+    <ul>
+        <li>Chudan Hiji Ate.</li>
+        <li>Chudan Mae Hiji Ate.</li>
+        <li>Age Hiji Ate Jodan.</li>
+        <li>Age Hiji Ate Chudan.</li>
+        <li>Ushiro Hiji Ate.</li>
+        <li>Oroshi Hiji Ate.</li>
+        <li>Shuto Juji Uke Jodan and Gedan.</li>
+        <li>Mae Kokato Geri Jodan.</li>
+        <li>Mae Kokato Geri Chudan.</li>
+        <li>Mae Kokato Geri Gedan.</li>
+        <li>Jodan Ago Geri.</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Pinan Sono Yon.</li>
+        <li>Bo Kata Pinan Sono Ichi.</li>
+    </ul>
+
+    <h3>Renzoku Waza:</h3>
+    <ol>
+        <li>Step into Zenkutsu Dachi and block Jodan Shuto Juji Uke followed by Gedan Shuto Juji Uke.</li>
+        <li>With your rear leg execute Uchi Oroshi Kakato Geri (and return leg to rear), then Soto Oroshi Kakato Geri step into Zenkutsu Dachi.</li>
+        <li>Step forward into Kake Dachi, then execute Kake Geri, followed by Ushiro Mawashi Kakato Geri.</li>
+    </ol>
+
+    <h3>Ido Geiko:</h3>
+    <ul>
+        <li>In Zenkutsu Dachi
+            <ul>
+                <li>Soto Mawashi Keage, Yoko Geri, Mawashi Geri.</li>
+                <li>Uchi Mawashi Keage, Yoko Geri, Mawashi Geri.</li>
+                <li>Soto Mawashi Keage, Uchi Mawashi Keage, Mawashi Geri, Yoko Mawashi Geri.</li>
+                <li>Mae Geri, Mawashi Geri (without putting foot down).</li>
+                <li>Mawashi Gedan, Mawashi Gedan, Jump Hiza Gamne.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Renraku:</h3>
+    <ul>
+        <li>Mae Geri Chudan Chusoku, Yoko Geri Chudan, Ushiro Geri Chudan, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>15 x 1.5-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>80 Push-ups</li>
+        <li>80 Sit-ups</li>
+        <li>80 Squats</li>
+    </ul>
+
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>2nd Kyu - BROWN BELT</name>
+            <level>2nd kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Pinan Yon.</li>
+        <li>Minimum of 6 months of training.</li>
+    </ul>
+
+    <h3>Kihon Geiko:</h3>
+    <ul>
+        <li>Jodan Hiraken Tsuki.</li>
+        <li>Chudan Hiraken Tsuki.</li>
+        <li>Hiraken Oroshi Uchi.</li>
+        <li>Hiraken Mawashi Uchi.</li>
+        <li>Haisho Jodan Uchi.</li>
+        <li>Haisho Chudan Uchi.</li>
+        <li>Koken Uke Jodan, Chudan, Gedan.</li>
+        <li>Tobi Nidan Geri.</li>
+        <li>Tobi Mae Geri (Front leg).</li>
+        <li>Tobi Mae Geri (Rear leg).</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Pinan Sono Go.</li>
+        <li>Bo Kata Pinan Sono Ni.</li>
+        <li>Bo Kata Pinan Sono San.</li>
+    </ul>
+
+    <h3>Renzoku Waza:</h3>
+    <ol>
+        <li>In Shizentai Dachi: each step Oi Tsuki, Gyaku Tsuki, Furi Uchi, Shita Tsuki.</li>
+        <li>In Kokutsu Dachi: front leg Jodan Mawashi Geri, Jodan Oi Tsuki, Chudan Gyaku Tsuki, rear leg Jodan Mawashi Geri and step forward.</li>
+        <li>Gohon Geri (in Shizentai Dachi, step forward with each kick, all kicks from rear leg):
+            <ul>
+                <li>Jodan Mawashi Geri.</li>
+                <li>Jodan Ushiro Mawashi Geri.</li>
+                <li>Jodan Mae Geri.</li>
+                <li>Jodan Mawashi Geri.</li>
+                <li>Jodan Ushiro Mawashi Geri.</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h3>Ido Geiko:</h3>
+    <ul>
+        <li>In Kiba Dachi 45˚:
+            <ul>
+                <li>Chudan Tsuki.</li>
+                <li>Gedan Barai.</li>
+                <li>Gedan Barai, Chudan Tsuki.</li>
+                <li>Yoko Geri Keage.</li>
+                <li>Yoko Geri Kekomi.</li>
+                <li>Nihon Yoko Geri Keage.</li>
+                <li>Nihon Yoko Geri Kekomi.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Renraku:</h3>
+    <ul>
+        <li>Move back and block Seiken Mae Gedan Barai, slide forward Seiken Ago Uchi, slide forward Seiken Gyaku Tsuki Chudan. One step Mae Geri Chudan, followed by Mawashi Geri Jodan, Ushiro Geri Chudan, Seiken Mae Gedan Barai, Seiken Gyaku Tsuki Chudan, return and cover (fist to be held always closed).</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>15 x 2-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>90 Push-ups</li>
+        <li>90 Sit-ups</li>
+        <li>90 Squats</li>
+    </ul>
+           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>1st Kyu - BROWN BELT BLACK STRIPE</name>
+            <level>1st kyu</level>
+            <description><![CDATA[
+            <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Pinan Go.</li>
+        <li>Take class through Kihon.</li>
+        <li>Breaking 1 board, 3 techniques.</li>
+        <li>Demonstrate simple self-defence.</li>
+        <li>Minimum of 6 months of training.</li>
+    </ul>
+
+    <h3>Kihon Geiko:</h3>
+    <ul>
+        <li>Ryutoken Tsuki Jodan, Chudan.</li>
+        <li>Nakayubi Ippon Ken Jodan, Chudan.</li>
+        <li>Oyayubi Ippon Ken Jodan, Chudan.</li>
+        <li>Kake Uke Jodan.</li>
+        <li>Chudan Haito Uchi Uke.</li>
+        <li>Jodan Uchi Haisoku Geri.</li>
+        <li>Oroshi Uchi Kakato Geri.</li>
+        <li>Oroshi Soto Kakato Geri.</li>
+        <li>Tobi Yoko Geri.</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Tsuki No Kata.</li>
+        <li>Bo Kata Pinan Sono Yon.</li>
+    </ul>
+
+    <h3>Renzoku Waza:</h3>
+    <p>(In Shizentai Dachi,)</p>
+    <p>All combinations performed from the same spot and described as with the left leg forward. However, the combinations should be executed on both sides.</p>
+    <ol>
+        <li>Left leg, Uchi Mawashi Geri, return to front.</li>
+        <li>Left leg, Jodan Mawashi Geri, take leg behind.</li>
+        <li>Left leg, Jodan Ushiro Mawashi Geri, return to front.</li>
+        <li>Right leg, Ushiro Mawashi Geri, return leg behind.</li>
+        <li>Right leg, Jodan Mawashi Geri, return leg behind.</li>
+    </ol>
+
+    <h3>Ido Geiko:</h3>
+    <ul>
+        <li>In Kiba Dachi 180˚:
+            <ul>
+                <li>Yoko Tsuki.</li>
+            </ul>
+        </li>
+        <li>In Kiba Dachi Ura:
+            <ul>
+                <li>Yoko Tsuki.</li>
+            </ul>
+        </li>
+        <li>In Kiba Dachi 45˚:
+            <ul>
+                <li>Hiji, Uraken Sayu, Gedan Barai, Chudan Tsuki.</li>
+            </ul>
+        </li>
+        <li>In Sanchin Dachi:
+            <ul>
+                <li>Chudan Tsuki.</li>
+                <li>Gyaku Chudan Tsuki.</li>
+                <li>Gyaku Chudan Tsuki, Uchi Uke, Uraken Shomen, Hiji Ate (same arm).</li>
+                <li>Gyaku Chudan Tsuki, Uchi Uke, Uraken, Shomen, Tetsui, Hiji, Hiji Oroshi, Hiji Ate (same arm).</li>
+            </ul>
+        </li>
+        <li>In Zenkutsu Dachi:
+            <ul>
+                <li>Ushiro Geri.</li>
+                <li>Mawashi Ushiro Geri.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Renraku:</h3>
+    <ul>
+        <li>Seiken Oi Tsuki, Seiken Gyaku Tsuki, Seiken Oi Tsuki, Shita Tsuki with facial cover, return and cover.</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>30 x 2-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>100 Push-ups.</li>
+        <li>100 Sit-ups.</li>
+        <li>100 Squats.</li>
+    </ul>
+           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>1st Dan - BLACK BELT ONE STRIPE</name>
+            <level>1st dan</level>
+            <description><![CDATA[
+    <h1>Shodan</h1>
+
+    <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Pinan Katas.</li>
+        <li>A written or oral essay on what karate means to you.</li>
+        <li>Breaking 2 Boards, 3 Techniques.</li>
+        <li>Demonstrate simple self-defence.</li>
+        <li>Show attributes of assistant instructor.</li>
+        <li>Minimum of 12 months of training from prior grading.</li>
+        <li>Minimum of 16 years of age at the date of grading.</li>
+    </ul>
+
+    <h3>Kihon Geiko:</h3>
+    <ul>
+        <li>Morote Haito Uchi, Jodan, Chudan.</li>
+        <li>Haito Uchi, Jodan, Chudan, Gedan.</li>
+        <li>Morote Kake Uke Jodan.</li>
+        <li>Osea Uke.</li>
+        <li>Kake Geri Kakato, Jodan, Chudan.</li>
+        <li>Kake Geri Chusoku, Jodan, Chudan.</li>
+        <li>Ushiro Mawashi Geri, Jodan, Chudan, Gedan.</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Saifa.</li>
+        <li>Yantsu.</li>
+    </ul>
+
+    <h3>Renzoku Waza:</h3>
+    <ul>
+        <li>Demonstrate application of prior Renzoku Waza.</li>
+    </ul>
+
+    <h3>Ido Geiko:</h3>
+    <ul>
+        <li>All prior Ido Geiko.</li>
+    </ul>
+
+    <h3>Renraku:</h3>
+    <ul>
+        <li>Front leg Mawashi Geri Jodan, same hand Seiken Oi Tsuki Chudan, Seiken Gyaku Tsuki, back leg Mawashi Geri Jodan, return and cover.</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>40 x 2-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>100 Push-ups</li>
+        <li>100 Sit-ups</li>
+        <li>100 Squats</li>
+        <li>5 Km Run</li>
+    </ul>           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>2nd Dan - BLACK BELT TWO STRIPE</name>
+            <level>2nd dan</level>
+            <description><![CDATA[
+            
+    <h1>Nidan</h1>
+
+    <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Saifa Kata.</li>
+        <li>Take gradings of Kyu belts.</li>
+        <li>Breaking 3 Boards, 3 Techniques.</li>
+        <li>Show attributes of assistant instructor.</li>
+        <li>Minimum of 24 months of training from prior grading.</li>
+        <li>Minimum of 18 years of age at the date of grading.</li>
+    </ul>
+
+    <h3>Kihon Geiko:</h3>
+    <ul>
+        <li>Toho Uchi Jodan.</li>
+        <li>Keiko Uchi.</li>
+        <li>Ippon Nukite.</li>
+        <li>Hiji Uke Chudan.</li>
+        <li>Shotei Morote Gedan Uke.</li>
+        <li>Shuto Morote Gedan Uke.</li>
+        <li>Tobi Mawashi Geri.</li>
+        <li>Tobi Ushiro Geri.</li>
+        <li>Tobi Ushiro Mawashi Geri.</li>
+        <li>Age Kakato Ushiro Geri.</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Gekisai Dai.</li>
+        <li>Gekisai Sho.</li>
+        <li>Sepai.</li>
+    </ul>
+
+    <h3>Renzoku Waza:</h3>
+    <ul>
+        <li>Demonstrate application of prior Renzoku Waza.</li>
+    </ul>
+
+    <h3>Ido Geiko:</h3>
+    <ul>
+        <li>All prior Ido Geiko.</li>
+    </ul>
+
+    <h3>Renraku:</h3>
+    <ul>
+        <li>All prior Renraku.</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>30 x 2-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>100 Push-ups</li>
+        <li>100 Sit-ups</li>
+        <li>100 Squats</li>
+        <li>5 Km Run</li>
+    </ul>           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>3rd Dan - BLACK BELT THREE STRIPE</name>
+            <level>3rd dan</level>
+            <description><![CDATA[
+    <h1>Sandan</h1>
+
+    <h3>Students will have to demonstrate the following:</h3>
+    <ul>
+        <li>Demonstrate application of Sepai Kata.</li>
+        <li>Demonstrate high level of Kihon.</li>
+        <li>Take part in gradings of Dan belts.</li>
+        <li>Breaking 3 Boards, 3 Techniques.</li>
+        <li>Show attributes of instructor.</li>
+        <li>Be running classes or own Dojo.</li>
+        <li>Minimum of 36 months of training from prior grading.</li>
+        <li>Minimum of 21 years of age at the date of grading.</li>
+    </ul>
+
+    <h3>Kata:</h3>
+    <ul>
+        <li>Gayru.</li>
+        <li>Seienchin.</li>
+        <li>Tensho.</li>
+    </ul>
+
+    <h3>Kumite:</h3>
+    <ul>
+        <li>30 x 2-minute rounds.</li>
+    </ul>
+
+    <h3>Fitness Requirements:</h3>
+    <ul>
+        <li>100 Push-ups.</li>
+        <li>100 Sit-ups.</li>
+        <li>100 Squats.</li>
+        <li>5 Km Run.</li>
+    </ul>         
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>4th Dan - BLACK BELT FOUR STRIPE</name>
+            <level>4th dan</level>
+            <description><![CDATA[
+           
+]]>
+            </description>
+            <video_link></video_link>
+        </item>
+    </category>
     <category name="Kata">
         <item>
             <name>Taikyoku Sono Ichi</name>
@@ -267,7 +1238,7 @@
         </item>
         <item>
             <name>Pinan Sono Go</name>
-            <level>4th kyu</level>
+            <level>3th kyu</level>
             <description>
             <![CDATA[
             <h3>Pinan Sono Go - 平安五段</h3>
@@ -314,36 +1285,286 @@
             <video_link></video_link>
         </item>
     </category>
-<category name="Renraku">
-    <item>
-        <name>10th kyu</name>
-        <level>10th kyu</level>
-        <description>Basic punch</description>
-        <video_link></video_link>
-    </item>
-</category>
-<category name="Renzuku">
-    <item>
-        <name>10th kyu</name>
-        <level>10th kyu</level>
-        <description>Basic punch</description>
-        <video_link></video_link>
-    </item>
-</category>
-<category name="Ippon Kumite">
-    <item>
-        <name>10th kyu</name>
-        <level>10th kyu</level>
-        <description>Basic punch</description>
-        <video_link></video_link>
-    </item>
-</category>
-<category name="Sanbon Kumite">
-    <item>
-        <name>10th kyu</name>
-        <level>10th kyu</level>
-        <description>Basic punch</description>
-        <video_link></video_link>
-    </item>
-</category>
+    <category name="Renraku">
+        <item>
+            <name>10th kyu</name>
+            <level>10th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3> 
+            <ul>
+                <li>Seiken Gyaku Tsuki (Chudan or Jodan), Mae Geri Chudan Chusoku, return and cover</li>
+            </ul>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>9th kyu</name>
+            <level>9th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Chudan Mae Geri Chusoku, Seiken Gyaku Tsuki Chudan. Return and cover.</li>
+            </ul>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>8th kyu</name>
+            <level>8th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Chudan Soto Uke, Seiken Mae Gedan Barai, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>7th kyu</name>
+            <level>7th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Step forward Seiken Gyaku Tsuki Chudan, Hidari Mae Geri Chudan Chusoku, Migi Mae Geri Chudan Chusoku, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>6th kyu</name>
+            <level>6th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Gedan Mawashi Geri (Chusoku or Haisoku), Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>5th kyu</name>
+            <level>5th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+            <ul>
+                <li>Chudan Mae Yoko Geri, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+            </ul>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>4th kyu</name>
+            <level>4th kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+    <ul>
+        <li>Chudan Ushiro Geri, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+    </ul>
+
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>3rd kyu</name>
+            <level>3rd kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+    <ul>
+        <li>Mae Geri Chudan Chusoku, Yoko Geri Chudan, Ushiro Geri Chudan, Seiken Gyaku Tsuki Chudan, return and cover.</li>
+    </ul>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>2nd kyu</name>
+            <level>2nd kyu</level>
+            <description><![CDATA[
+            <h3>Renraku:</h3>
+    <ul>
+        <li>Move back and block Seiken Mae Gedan Barai, slide forward Seiken Ago Uchi, slide forward Seiken Gyaku Tsuki Chudan. One step Mae Geri Chudan, followed by Mawashi Geri Jodan, Ushiro Geri Chudan, Seiken Mae Gedan Barai, Seiken Gyaku Tsuki Chudan, return and cover (fist to be held always closed).</li>
+    </ul>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>1st kyu</name>
+            <level>1st kyu</level>
+            <description><![CDATA[
+             <h3>Renraku:</h3>
+    <ul>
+        <li>Seiken Oi Tsuki, Seiken Gyaku Tsuki, Seiken Oi Tsuki, Shita Tsuki with facial cover, return and cover.</li>
+    </ul>
+
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+    </category>
+    <category name="Renzuku">
+        <item>
+            <name>10th kyu</name>
+            <level>10th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3> 
+            <ol> 
+                <li>Zenkutsu Dachi, Chudan Seiken Morote Tsuki, Step forward Zenkutsu Dachi, Jodan Oi Tsuki, Gedan Gyaku Tsuki</li> 
+                <li>Step forward Zenkutsu Dachi, Seiken Jodan Uke, Seiken Gedan Barai, Chudan Soto Uke, Uraken Ganmen Uchi, Chudan Seiken Gyaku Tsuki</li> 
+                <li>Grab forward, flare elbows, Hiza Ganmen Geri, Haisoku Kintaki Geri, Mae Geri Kikomi stepping into Zenkutsu Dachi, strike Ago Uchi</li> 
+            </ol>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>9th kyu</name>
+            <level>9th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Zenkutsu Dachi, Shuto Ganmen Uchi. Kiba Dachi, Uraken Sayo Uchi. Zenkutsu Dachi, Seiken Chudan Uchi Uke.</li>
+                <li>Step into Kokutsu Dachi, Shita Tsuki, Hiji Jodan Ate, slide into Zenkutsu Dachi Seiken Chudan Soto Uke.</li>
+                <li>Uchi Mawashi Keage, Soto Mawashi Keage.</li>
+            </ol>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>8th kyu</name>
+            <level>8th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>90-degree Kiba Dachi, Chudan Jun Tsuki, Uraken Hizo Uchi. Step across into Zenkutsu Dachi, Chudan Morote Uchi Uke, Gedan Barai, Chudan Uchi Uke.</li>
+                <li>Step into Kokutsu Dachi, Oi Uraken Mawashi Ganmen Uchi, Gyaku Chudan Tate Tsuki. Slide forward into Zenkutsu Dachi, Oi Shuto Sakotsu Uchi.</li>
+                <li>Turn 90 degrees, Yoko Keage, bring leg back, Jodan Mae Geri bring leg back, Gedan Mawashi Geri step forward.</li>
+            </ol>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>7th kyu</name>
+            <level>7th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Step into Kokutsu Dachi, block Shuto Mawashi Uke, then strike Tetsui Kome Kami. Slide forward into Zenkutsu Dachi and strike, Gyaku Tetsui Oroshi Ganmen Uchi followed by Oi Tetsui Hiza Uchi.</li>
+                <li>Step into Zenkutsu Dachi, strike Oi Shuto Uchi Uke, Gyaku Shuto Sakotsu Uchi Komi, Oi Shuto Hizo Uchi.</li>
+                <li>Rear leg Chudan Mawashi Geri (return foot to rear), Gedan Kakato Geri, step forward into Zenkutsu Dachi.</li>
+            </ol>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>6th kyu</name>
+            <level>6th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Step into Zenkutsu Dachi, strike Oi Jodan Nihon Nukite, Gyaku Chudan Yonhon Nukite, Oi Uraken Oroshi Ganmen Uchi.</li>
+                <li>Step into Zenkutsu Dachi, block Gedan Seiken Juji Uke, Seiken Jodan Juji Uke.</li>
+                <li>Kansetsu Geri, return foot to rear then Chudan Yoko Geri. Step forward into Zenkutsu Dachi.</li>
+            </ol>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>5th kyu</name>
+            <level>5th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+            <ol>
+                <li>Step into Zenkutsu Dachi, block, Oi Seiken Jodan Uchi Uke, Oi Jodan Shotei Uchi.</li>
+                <li>Step through into Kiba Dachi (facing to the front) and Mae Shuto Mawashi Uke, then Ushiro Hiji Ate, Mae Chudan Hiji Ate (with the same arm). Step forward into Migi Zenkutsu Dachi with Oi Age Hiji Ate, Jodan Oroshi Hiji Ate (same arm).</li>
+                <li>Jodan Mawashi Geri with rear leg and step forward into Zenkutsu Dachi.</li>
+            </ol>
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>4th kyu</name>
+            <level>4th kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+    <ol>
+        <li>From Zenkutsu Dachi, (with rear leg) Ushiro Geri into Kokutsu Dachi, Oi Osai Uke, Gyaku Furi Uchi.</li>
+        <li>Rear leg Ushiro Mawashi Kakato Geri into Kokutsu Dachi, Oi Gedan Shotei Uke, Jodan Morote Shotei Uke.</li>
+        <li>Rear leg Ushiro Uchi Mawashi Geri into Zenkutsu Dachi.</li>
+    </ol>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>3rd kyu</name>
+            <level>3rd kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+    <ol>
+        <li>From Zenkutsu Dachi, (with rear leg) Ushiro Geri into Kokutsu Dachi, Oi Osai Uke, Gyaku Furi Uchi.</li>
+        <li>Rear leg Ushiro Mawashi Kakato Geri into Kokutsu Dachi, Oi Gedan Shotei Uke, Jodan Morote Shotei Uke.</li>
+        <li>Rear leg Ushiro Uchi Mawashi Geri into Zenkutsu Dachi.</li>
+    </ol>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>2nd kyu</name>
+            <level>2nd kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+    <ol>
+        <li>In Shizentai Dachi: each step Oi Tsuki, Gyaku Tsuki, Furi Uchi, Shita Tsuki.</li>
+        <li>In Kokutsu Dachi: front leg Jodan Mawashi Geri, Jodan Oi Tsuki, Chudan Gyaku Tsuki, rear leg Jodan Mawashi Geri and step forward.</li>
+        <li>Gohon Geri (in Shizentai Dachi, step forward with each kick, all kicks from rear leg):
+            <ul>
+                <li>Jodan Mawashi Geri.</li>
+                <li>Jodan Ushiro Mawashi Geri.</li>
+                <li>Jodan Mae Geri.</li>
+                <li>Jodan Mawashi Geri.</li>
+                <li>Jodan Ushiro Mawashi Geri.</li>
+            </ul>
+        </li>
+    </ol>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+        <item>
+            <name>1st kyu</name>
+            <level>1st kyu</level>
+            <description><![CDATA[
+            <h3>Renzoku Waza:</h3>
+    <p>(In Shizentai Dachi,)</p>
+    <p>All combinations performed from the same spot and described as with the left leg forward. However, the combinations should be executed on both sides.</p>
+    <ol>
+        <li>Left leg, Uchi Mawashi Geri, return to front.</li>
+        <li>Left leg, Jodan Mawashi Geri, take leg behind.</li>
+        <li>Left leg, Jodan Ushiro Mawashi Geri, return to front.</li>
+        <li>Right leg, Ushiro Mawashi Geri, return leg behind.</li>
+        <li>Right leg, Jodan Mawashi Geri, return leg behind.</li>
+    </ol>
+            
+                ]]></description>
+            <video_link></video_link>
+        </item>
+    </category>
+    <category name="Ippon Kumite">
+        <item>
+            <name>10th kyu</name>
+            <level>10th kyu</level>
+            <description>Basic punch</description>
+            <video_link></video_link>
+        </item>
+    </category>
+    <category name="Sanbon Kumite">
+        <item>
+            <name>10th kyu</name>
+            <level>10th kyu</level>
+            <description>Basic punch</description>
+            <video_link></video_link>
+        </item>
+    </category>
 </karate>
