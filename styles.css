@@ -12,6 +12,30 @@ body {
     box-sizing: border-box;
     text-align: center;
 }
+header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #3c3836; /* Dark background */
+    padding: 0 20px;
+    box-sizing: border-box;
+    position: fixed; /* Fixes the header in place */
+    top: 0;
+    left: 0;
+    z-index: 1000
+}
+header h1 {
+    font-size: 24px;
+    color: #fbf1c7; /* White text */
+    padding: 2px;
+}
+header img {
+    height: 120px;
+    width: auto;}
+
+
+
 h1 {
     color: #d65d0e;
 }
@@ -21,16 +45,37 @@ h1 {
     align-items: center;
     width: 100%;
     max-width: 800px;
+    margin: 0 auto;
+     padding-top: 70px;
 }
 .selectors {
-    width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    max-width: 700px;
+    margin: 10px;
 }
+.selector-group {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-bottom: 5px;
+    margin-top: -px;
+}
+.selector-group label {
+    /* margin-right: 10px; */
+    width: 30%; /* Fixed width for labels */
+    text-align: left;;
+}
+.selector-group select {
+    flex: none; /* Ensure select elements take up the remaining space */
+    width: 70%;
+}
+
 select, iframe {
     margin: 10px;
     width: 100%;
+    text-align: center;
     max-width: 700px;
     background-color: #3c3836;
     color: #ebdbb2;

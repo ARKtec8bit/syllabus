@@ -8,20 +8,26 @@
 </head>
 <body>
     <div class="container">
+        <header>
+            <img src="ikakkanku.png" alt="Kyokushinkaikan Logo" style="height: 50px; width: auto;">
+            <h1>Kyokushinkaikan Allied Karate Syllabus</h1>
+        </header>
+
         <div class="selectors">
-            <h1>Syllabus</h1>
-            
-            <label for="level">Level:</label>
-            <select id="level">
-                <option value="All">All</option>
-            </select>
-
-            <label for="category">Category:</label>
-            <select id="category"></select>
-
-
-            <label for="name">Name:</label>
-            <select id="name"></select>
+            <div class="selector-group">
+                <label for="level">Level:</label>
+                <select id="level">
+                    <option value="All">All</option>
+                </select>
+            </div>
+            <div class="selector-group">
+                <label for="category">Category:</label>
+                <select id="category"></select>
+            </div>
+             <div class="selector-group">
+                <label for="name">Name:</label>
+                 <select id="name"></select>
+             </div>
         </div>
         <div id="details" class="details"></div>
     </div>
